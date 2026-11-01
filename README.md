@@ -1,4 +1,4 @@
-FakeShield DeepFake Localization — Web Warriors
+[FakeShield DeepFake Localization — Web Warriors
 
 A reproducibility study of FakeShield with a focus on DeepFake manipulation localization
 
@@ -744,3 +744,4 @@ For work derived from this repository, please also acknowledge the Web Warriors 
 Web Warriors — FakeShield Reproduction and DeepFake Localization
 
 This repository documents the engineering work, baseline measurements, and reproducibility considerations for evaluating FakeShield's DeepFake localization capability. Its purpose is to provide a traceable baseline for future experiments in facial-structure-aware manipulation localization, without conflating completed results with proposed research contributions.
+](https://github.com/rengoku26r/fakeshield-deepfake-localization/tree/phase3)
