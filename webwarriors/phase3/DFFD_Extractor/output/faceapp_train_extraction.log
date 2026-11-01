@@ -1,0 +1,86 @@
+Input directory: /data/FaceAPP_Train/image
+Images discovered: 6309
+Already completed: 0
+Initializing RetinaFace...
+[32, 16, 8] {'32': {'SCALES': (32, 16), 'BASE_SIZE': 16, 'RATIOS': (1.0,), 'ALLOWED_BORDER': 9999}, '16': {'SCALES': (8, 4), 'BASE_SIZE': 16, 'RATIOS': (1.0,), 'ALLOWED_BORDER': 9999}, '8': {'SCALES': (2, 1), 'BASE_SIZE': 16, 'RATIOS': (1.0,), 'ALLOWED_BORDER': 9999}}
+[15:53:41] ../src/nnvm/legacy_json_util.cc:208: Loading symbol saved by previous version v1.3.0. Attempting to upgrade...
+[15:53:41] ../src/nnvm/legacy_json_util.cc:216: Symbol successfully upgraded!
+means [0. 0. 0.]
+use_landmarks True
+sym size: 9
+[15:53:41] ../src/executor/graph_executor.cc:1991: Subgraph backend MKLDNN is activated.
+Detector initialized.
+Processed this run: 100; file: F_FAP0_00033-1.png; elapsed: 15.9s
+Processed this run: 200; file: F_FAP0_00066-2.png; elapsed: 31.7s
+Processed this run: 300; file: F_FAP0_00099-3.png; elapsed: 48.6s
+Processed this run: 400; file: F_FAP0_00133-1.png; elapsed: 65.9s
+Processed this run: 500; file: F_FAP0_00166-2.png; elapsed: 83.1s
+Processed this run: 600; file: F_FAP0_00199-3.png; elapsed: 100.5s
+Processed this run: 700; file: F_FAP0_00233-1.png; elapsed: 117.9s
+Processed this run: 800; file: F_FAP0_00266-2.png; elapsed: 135.1s
+Processed this run: 900; file: F_FAP0_00299-3.png; elapsed: 152.4s
+Processed this run: 1000; file: F_FAP0_00333-1.png; elapsed: 169.9s
+Processed this run: 1100; file: F_FAP0_00366-2.png; elapsed: 187.3s
+Processed this run: 1200; file: F_FAP0_00399-3.png; elapsed: 204.6s
+Processed this run: 1300; file: F_FAP0_00433-1.png; elapsed: 222.0s
+Processed this run: 1400; file: F_FAP0_00466-2.png; elapsed: 239.2s
+Processed this run: 1500; file: F_FAP0_00499-3.png; elapsed: 256.4s
+Processed this run: 1600; file: F_FAP0_00533-1.png; elapsed: 273.8s
+Processed this run: 1700; file: F_FAP0_00566-2.png; elapsed: 291.0s
+Processed this run: 1800; file: F_FAP0_00599-3.png; elapsed: 308.2s
+Processed this run: 1900; file: F_FAP0_00633-1.png; elapsed: 325.5s
+Processed this run: 2000; file: F_FAP0_00666-2.png; elapsed: 342.7s
+Processed this run: 2100; file: F_FAP0_00699-3.png; elapsed: 360.1s
+Processed this run: 2200; file: F_FAP0_00733-1.png; elapsed: 377.5s
+Processed this run: 2300; file: F_FAP0_00766-2.png; elapsed: 394.9s
+Processed this run: 2400; file: F_FAP0_00799-3.png; elapsed: 412.1s
+Processed this run: 2500; file: F_FAP0_00833-1.png; elapsed: 429.4s
+Processed this run: 2600; file: F_FAP0_00866-2.png; elapsed: 446.8s
+Processed this run: 2700; file: F_FAP0_00899-3.png; elapsed: 464.2s
+Processed this run: 2800; file: F_FAP0_00933-1.png; elapsed: 481.7s
+Processed this run: 2900; file: F_FAP0_00966-2.png; elapsed: 499.0s
+Processed this run: 3000; file: F_FAP0_00999-3.png; elapsed: 516.4s
+Processed this run: 3100; file: F_FAP0_01033-1.png; elapsed: 533.5s
+Processed this run: 3200; file: F_FAP0_01066-2.png; elapsed: 550.8s
+Processed this run: 3300; file: F_FAP0_01099-3.png; elapsed: 568.0s
+Processed this run: 3400; file: F_FAP0_01133-1.png; elapsed: 585.2s
+Processed this run: 3500; file: F_FAP0_01166-2.png; elapsed: 602.4s
+Processed this run: 3600; file: F_FAP0_01199-3.png; elapsed: 619.7s
+Processed this run: 3700; file: F_FAP0_01233-1.png; elapsed: 637.0s
+Processed this run: 3800; file: F_FAP0_01266-2.png; elapsed: 654.4s
+Processed this run: 3900; file: F_FAP0_01299-3.png; elapsed: 671.8s
+Processed this run: 4000; file: F_FAP0_01333-1.png; elapsed: 688.9s
+Processed this run: 4100; file: F_FAP0_01366-2.png; elapsed: 706.2s
+Processed this run: 4200; file: F_FAP0_01399-3.png; elapsed: 723.5s
+Processed this run: 4300; file: F_FAP0_01433-1.png; elapsed: 741.0s
+Processed this run: 4400; file: F_FAP0_01466-2.png; elapsed: 758.3s
+Processed this run: 4500; file: F_FAP0_01503-1.png; elapsed: 775.8s
+Processed this run: 4600; file: F_FAP0_01553-1.png; elapsed: 793.1s
+Processed this run: 4700; file: F_FAP0_01603-1.png; elapsed: 810.3s
+Processed this run: 4800; file: F_FAP0_01653-1.png; elapsed: 827.7s
+Processed this run: 4900; file: F_FAP0_01703-1.png; elapsed: 845.0s
+Processed this run: 5000; file: F_FAP0_01753-1.png; elapsed: 862.4s
+Processed this run: 5100; file: F_FAP0_01803-1.png; elapsed: 879.9s
+Processed this run: 5200; file: F_FAP0_01853-1.png; elapsed: 897.3s
+Processed this run: 5300; file: F_FAP0_01903-1.png; elapsed: 914.7s
+Processed this run: 5400; file: F_FAP0_01953-1.png; elapsed: 932.0s
+Processed this run: 5500; file: F_FAP0_02003-1.png; elapsed: 949.4s
+Processed this run: 5600; file: F_FAP0_02053-1.png; elapsed: 966.8s
+Processed this run: 5700; file: F_FAP0_02103-1.png; elapsed: 984.2s
+Processed this run: 5800; file: F_FAP0_02153-1.png; elapsed: 1001.5s
+Processed this run: 5900; file: F_FAP0_02203-1.png; elapsed: 1018.9s
+Processed this run: 6000; file: F_FAP0_02253-1.png; elapsed: 1036.4s
+Processed this run: 6100; file: F_FAP0_02310-1.png; elapsed: 1053.8s
+Processed this run: 6200; file: F_FAP0_02410-1.png; elapsed: 1071.3s
+Processed this run: 6300; file: F_FAP0_02510-1.png; elapsed: 1088.7s
+
+========== EXTRACTION SUMMARY ==========
+{
+  "ok": 6309,
+  "no_face": 0,
+  "unreadable": 0,
+  "error": 0
+}
+Metadata: /opt/dffd/output/faceapp_train_metadata.jsonl
+Failures: /opt/dffd/output/faceapp_train_failures.json
+Summary: /opt/dffd/output/faceapp_train_summary.json

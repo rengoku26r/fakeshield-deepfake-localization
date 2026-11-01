@@ -1,0 +1,13 @@
+{
+  "input_dir": "/data/FaceAPP_Train/image",
+  "output_jsonl": "/opt/dffd/output/faceapp_train_metadata.jsonl",
+  "images_discovered_this_run": 6309,
+  "new_records_this_run": 6309,
+  "status_counts_cumulative": {
+    "ok": 6309,
+    "no_face": 0,
+    "unreadable": 0,
+    "error": 0
+  },
+  "elapsed_seconds_this_run": 1090.28
+}
